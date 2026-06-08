@@ -1,13 +1,7 @@
 ﻿# Introduction to Object-Oriented Programming (CS 1331)
 
-Java coursework focused on object-oriented programming fundamentals, including classes, inheritance, interfaces, polymorphism, collections, exceptions, and small command-line programs.
+Coursework archive for Georgia Tech CS 1331, including project, lab, homework, and assignment materials kept for undergraduate education documentation.
 
-## Included Materials
+## Notes
 
-- Java homework assignments
-- Starter and support files
-- Submitted programming exercises
-
-## Archive Notes
-
-This repository was prepared for public documentation and archival purposes. Generated dependency folders, nested Git metadata, local build outputs, compressed archives, OS metadata, and grade calculator files were excluded during preparation.
+Generated dependency folders, nested Git metadata, local build outputs, archives, and OS metadata were excluded when this repository was prepared.
