@@ -1,0 +1,7 @@
+Class: Mage, Name: Henry, Health: 10, Base Attack: 10, Spell Attack: 11, Spell Slots: 1
+Class: Warrior, Name: Eleven, Health: 10, Base Attack: 10, Weapon: Long Sword, Armor Class: 2
+Class: Warrior, Name: Devin, Health: 15, Base Attack: 15, Weapon: Medium Sword, Armor Class: 4
+Class: Mage, Name: Jerry, Health: 15, Base Attack: 15, Spell Attack: 16, Spell Slots: 1
+Class: Warrior, Name: Kevin, Health: 20, Base Attack: 20, Weapon: Short Sword, Armor Class: 6
+Class: Mage, Name: Milly, Health: 20, Base Attack: 20, Spell Attack: 21, Spell Slots: 2
+Class: Warrior, Name: New, Health: 40, Base Attack: 40, Weapon: Bomb, Armor Class: 1
